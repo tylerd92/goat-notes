@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Access Application
 
-This application is hosted on Vercel. You can access it [here](https://goat-notes-m5c0ee1fj-tylerd92s-projects.vercel.app/)
+This application is hosted on Vercel. You can access it with this [link](https://goat-notes-m5c0ee1fj-tylerd92s-projects.vercel.app/).
